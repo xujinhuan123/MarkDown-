@@ -1,6 +1,5 @@
 # MarkDown-
-本人初期学习markdown的笔记
-
+本人初期学习markdown的笔记,以下为效果，源码请点击文件查看
 
 start time:2024.8.01
 # <center><font face="仿宋" color=red>markdown学习笔记</font></center>
