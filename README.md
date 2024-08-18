@@ -1,6 +1,8 @@
 # MarkDown-
 本人初期学习markdown的笔记,以下为效果，源码请点击文件查看
 
+tips:后期会有Linux基础笔记可以期待一手
+
 start time:2024.8.01
 # <center><font face="仿宋" color=red>markdown学习笔记</font></center>
 ## <center><font face="楷体" color=red>须尽欢 </font></center>
